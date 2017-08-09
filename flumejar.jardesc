@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/home/bigdata/bigdata_noahdata/mGage-Phase1/Flume-POC/fiorano-jars-added/customJsonConverter.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Flume_Interceptor/flumejar.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/Flume_Interceptor/pom.xml"/>
+        <file path="/Flume_Interceptor/.classpath"/>
+        <folder path="/Flume_Interceptor/src"/>
+        <javaElement handleIdentifier="=Flume_Interceptor/src\/main\/resources"/>
+        <folder path="/Flume_Interceptor/target"/>
+        <javaElement handleIdentifier="=Flume_Interceptor/src\/main\/java"/>
+        <javaElement handleIdentifier="=Flume_Interceptor/src\/test\/java"/>
+        <javaElement handleIdentifier="=Flume_Interceptor/src\/test\/resources"/>
+        <file path="/Flume_Interceptor/.project"/>
+    </selectedElements>
+</jardesc>
